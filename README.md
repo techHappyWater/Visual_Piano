@@ -7,3 +7,4 @@ gui_and_key_adjust.py用于绘制琴键和更新琴键状态（按下为黑）
 play.py用于播放琴键音
 
 orignal.jpg为测试图片
+
